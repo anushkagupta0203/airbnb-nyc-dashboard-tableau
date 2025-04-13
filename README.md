@@ -16,3 +16,6 @@ This project features an interactive Tableau dashboard built using Airbnb listin
 ## 📊 View the Dashboard
 [Click here to view on Tableau Public](https://public.tableau.com/app/profile/anushka.gupta2641/viz/AirbnbInNYC_AnushkaGupta/Dashboard2)
 
+## 📬 Get in Touch
+
+If you have feedback or questions, feel free to reach out or connect on [LinkedIn](https://linkedin.com/in/anushkagupta23).
