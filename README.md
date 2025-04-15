@@ -19,7 +19,8 @@ This project features an interactive Tableau dashboard built using Airbnb listin
 
 ## 📑 Project Presentation
 
-[Click here to view the PowerPoint presentation](presentation/slides.pptx)
+[Download the presentation](presentation/slides.pptx)
+
 
 
 ## 📬 Get in Touch
