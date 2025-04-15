@@ -1,6 +1,6 @@
 ## 🏙️ Airbnb NYC Data Dashboard
 
-<img src="downloads/Dashboard 2.png" alt="Dashboard Screenshot" width="700"/>
+<img src="images/Dashboard.png" alt="Dashboard Screenshot" width="700"/>
 This project features an interactive Tableau dashboard built using Airbnb listing data for New York City. It visualizes key insights including:
 
 - Total Bookings by month and neighbourhood group-Room Type
